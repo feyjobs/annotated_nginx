@@ -34,3 +34,7 @@
 # objs
 Makefile
 objs/
+nginx/run/
+nginx/objs
+nginx/.vscode/
+.gitignore
